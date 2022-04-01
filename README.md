@@ -1,2 +1,3 @@
-# ExerciciosJava-I
-Coletanea de Exercicios Basicos Java
+# Lista de Exercicios do Curso de Java - UFRS
+
+
